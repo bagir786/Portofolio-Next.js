@@ -1,0 +1,18 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solid Black Circle Background -->
+  <circle cx="256" cy="256" r="256" fill="black"/>
+  
+  <!-- White Monogram inside -->
+  <path d="M256 90L380 165V345L256 420L132 345V165L256 90Z" 
+        stroke="white" stroke-width="32" stroke-linejoin="miter" fill="none"/>
+  <path d="M180 180V330" 
+        stroke="white" stroke-width="40" stroke-linecap="round"/>
+  <path d="M180 256H256" 
+        stroke="white" stroke-width="40" stroke-linecap="round"/>
+  <path d="M332 180V330" 
+        stroke="white" stroke-width="40" stroke-linecap="round"/>
+  <path d="M256 256H332" 
+        stroke="white" stroke-width="40" stroke-linecap="round"/>
+  <path d="M256 140V370" 
+        stroke="white" stroke-width="20"/>
+</svg>
